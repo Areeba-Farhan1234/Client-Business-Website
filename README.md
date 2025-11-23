@@ -24,9 +24,6 @@ Client-Business-Website/
 ├─ images/
 └─ README.md
 
-bash
-Copy code
-
 ## Deployment
 
 - Hosted on GitHub Pages  
@@ -39,5 +36,3 @@ git clone https://github.com/areeba-farhan1234/Client-Business-Website.git
 # Edit files, commit, and push
 License
 This project is open-source.
-
-Copy code
